@@ -106,6 +106,7 @@ dokku vernemq:logs lollipop -t # to tail
 dokku vernemq:destroy lollipop
 ```
 
+
 ## configuration
 
 The VerneMQ docker image allows for configuration of all variables [using environment variables during creation](https://github.com/erlio/docker-vernemq#vernemq-configuration)
